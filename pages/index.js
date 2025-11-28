@@ -151,7 +151,7 @@ export default function Home() {
             <iframe
               width="100%"
               height="500"
-              src="https://www.youtube.com/watch?v=nA0oGr2tKyg"
+              src="https://www.youtube.com/watch?v=HlN310Kkjg4"
               title="Vie etudiante en Russie"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
